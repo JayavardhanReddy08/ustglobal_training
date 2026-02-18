@@ -1,2 +1,13 @@
-# ustglobal_training
-This repository contains my practical learning and project work from my Data Engineering training, covering SQL, Python, and basic data processing tasks.
+*Data Engineering Training
+This repository contains my ongoing Data Engineering training work and hands-on practice.
+Currently learning and working with the following technologies:
+*Technologies & Topics
+- Python
+- SQL
+- Big Data concepts
+- Hadoop ecosystem
+- Azure basics
+- Scala fundamentals
+*Purpose
+This repository is created to track my learning progress and store training exercises, practice tasks, and mini projects.
+*Status: Ongoing – 2026
